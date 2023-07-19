@@ -1,0 +1,51 @@
+<html>
+<body>
+<br> </br>
+<br> </br>
+<H1><CENTER> SPECIAL COLLEGE TIME TABLE </H1>
+<body background = "C:\Users\ISHANT\Downloads\iop.jpeg"style="backgroundrepeat:norepeat;background-size:100% 100%">
+<p><CENTER>From 24-04-2023 Till 27-04-2023</p>
+<table border="10" align="center">
+<tr>
+<td align="center"><br><b>Day/Period</b></br></td>
+<td align="center"><b>I<br> 10:30-11:30am</b></td>
+<td align="center"><b>II<br>11:30-12:30pm</b></td>
+<td align="center"><b>III<br>12:30-1:30pm</b></td>
+<td align="center"><b><br>12:30-1:30pm</b></td>
+<td align="center"><b>IV<br>1:30-2:30pm</b></td>
+<td align="center"><b>V<br>3:30-4:30pm</b></td>
+<td align="center"><b>VI<br>4:30-5:30pm</b></td>
+<tr>
+<td align="center"><b>Monday</b></td>
+<td align="center">MP(YS)</td>
+<td align="center">EE(VS)</td>
+<td align="center">Library</td>
+<td rowspan="7" align="center""><h2>R<br>E<br>C<br>E<br>S<br>S</h2></td>
+<td align="center">IC(IK)</td>
+<td colspan="3" align="center">WORKSHOP</td>
+<tr>
+<td align="center"><b>Tuesday</b></td>
+<td align="center">EM-II(HR)</td>
+<td align="center">EE(VN)</td>
+<td align="center">MP(YS)</td>
+<td align="center">IC(IK)</td>
+<td colspan="3" align="center">EEL(AJ/PK)</td>
+</tr>
+<tr>
+<td align="center"><b>Wenesday</b></td>
+<td colspan="2" align="center">WDL</td>
+<td align="center">MP(YS)</td>
+<td align="center">EE(VN)</td>
+<td colspan="3" align="center">WORKSHOP</td>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Thursday</b></td>
+<td align="center">MP(YS)</td>
+<td colspan="2" align="center">EM-II(HR)</td>
+<td align="center">MP(YS)</td>
+<td align="center">EVS(AG)</td>
+<td align="center">SPORTS</td>
+</tr>
+</table> </body>
+</html>
