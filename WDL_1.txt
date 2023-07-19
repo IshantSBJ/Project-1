@@ -1,0 +1,15 @@
+<html>
+<title>BIRTHDAY CARD</title>
+<body background= "C:\Users\ISHANT\OneDrive\Desktop\abc.jpeg">
+      <dt><h1 align="center"><b>
+      <marque width="100px" height="200px">
+     	<h1>Invitation Letter</h1>
+<p>Dear Friends,</p><br>
+<br>I would like to invite you all  to attend the Birthday Party of my younger brother on 28-04-2023 at Nagpur,Shrikhrisnan Hall at 07:00 pm.<br>
+<br>We have planned an exciting party with Games. There also be delicious food, cake, and soft drinks for everyone to enjoy.<br>
+<br>We hope that you can make it to share in the fun and help us make this day extra special.<br> 
+	<p>Thank you for considering our invitation and we hope to see you there.</p>
+	<p>Sincerely,</p>
+	<p>Ishant Morghade</p>
+</body>
+</html>
