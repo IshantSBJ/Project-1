@@ -1,0 +1,126 @@
+<html>
+<head>
+ <title>RESUME</title></head>
+ <body>
+ <u><h2><p align="center">RESUME</p></h2></u>
+<img src="s1.jpg" align="right" width="145" height="155">
+<h2><p style="text-align:left">Ishant Morghade</p></h2>
+<p><b>Email id:</b><u>ishantmorghade1@gmail.com</u><p>
+<p><b>Mobile No:</b>9096528593</p>
+<p><b>Address:</b>Plot NO.3, M.B.Town, Bandhu Nagar, Koradi Road, Nagpur-440030</p>
+<h3><b><hr><p></p></hr></b></h3>
+<h2><p><u><span>TECHNICAL SKILLS</span></u></p></h2>
+<ul>
+<li><dt><p><span>C Programing Language</span></p></li></dt>
+<li><dt><p><span>Autocat</span></p></li></dt>
+</ul>
+ <u><h2><p><span>ACADEMIC QUALIFICATION</span></p></h2></u>
+ <table border="3">
+ <tr>
+ <td><b>Exam/Degree</b></td>
+ <td><b>University/Board</b></td>
+ <td><b>Year of Joining</b></td>
+ <td><b>Year of Passing</b></td>
+ <td><b><br>College/School</b></td>
+ <td><b>Percentage (%)</b></td>
+ <tr>
+ <td><b>B.Tech</b></td>
+ <td>R.T.M. Nagpur University</td>
+ <td>2022</td>
+ <td>Pursuing</td>
+ <td>S.B.J.I.T.M.R.*,Nagpur</td>
+ <td>CET:-71.23</td>
+ <tr>
+ <td><b>H.S.C,(Science Stream)</b></td>
+ <td>I.S.C</td>
+ <td>2021</td>
+ <td>2022</td>
+ <td>C.D.S,Kotal road,Nagpur</td>
+ <td>70.40%</td>
+ </tr>
+ <tr>
+ <td><b>S.S.C</b></td>
+ <td>I.C.S.E</td>
+ <td>2019</td>
+ <td>2020</td>
+ <td>S.D.A,Sadar<Nagpur</td>
+ <td>80.20%</td>
+ </table>
+<span>(S.B. Jain Institute of Technology, Management and Research*)</span>
+<u><h2><p><span>CAREER OBJECTIVE</span></p></h2></u>
+<p><span>A strong believer n to attain a sound position of in a dynamic organization where I 
+can enhance my skills and knowledge for contributing towards the growth of organization to 
+achieve its terminal goals and the aesthetics as well as functionality rooted contextual and 
+cultural aspects of organization.</span></p>
+<u><h2><p style="text-align:left"><span>CORE COMPETENCIES</span></p></h2></u>
+</u><ul>
+ <li><dt><p><span>Good team player</span></p></dt></li>
+ <li><dt><p><span>Fast learner</span></p></dt></li>
+ <li><dt><p><span>Dependable and Reliable </span></p></dt></li>
+ <li><dt><p><span>Leader</span></p></dt></li>
+ <li><dt><p><span>Hard + Smart Worker</span></p></dt></li>
+ <li><dt><p><span>Unique Thinking</span></p></dt></li>
+</ul>
+<u><h2 style="text-align:left">ACHIEVEMENTS</h2></u>
+<ul>
+ <li><dt>Group Leader in Book Reiview</li></dt>
+ <li><dt><p>Participated in Sport event and Technotstav</p></li></dt>
+</ul>
+<h2><p><u><span>WORK EXPERIENCE</span></u></p></h2>
+<ul>
+<li><dt><p><span>Fresher</span></p></li></dt>
+</ul>
+<u><h2 style="text-align:left">CURRICULAR ACTIVITIES</h2></u>
+<ul>
+ <li><dt><p><span>Participated in Book Review Activity as Group Leader(2022-
+2023)</span></p></li></dt>
+ <li><dt><p><span>Participated in Technotstav(2022-
+2023)</span></p></li></dt>
+</ul>
+<h2><u><p style="text-align:left">HOBBIES</p></u></h2>
+</u><ul>
+ <li><dt><p><span>Travelling</span></p></li></dt>
+ <li><dt><p><span>Technologies</span></p></li></dt>
+ <li><dt><p><span>Sports(Chess & Cricket)</span></p></li></dt>
+</ul>
+<u><h2><p style="text-align:left">PERSONAL DETAILS</p></u></h2>
+</u>
+<table border="3">
+ <tr>
+ <td><b>Name</b></td>
+ <td>Ishant Morghade</td>
+ <tr>
+ <td><b>Father’s Name </b></td>
+ <td>Chandrakant Morghade</td>
+ <tr>
+ <td><b>Mother’s Name </b></td>
+ <td>Nikita Morghade</td>
+ </tr>
+ <tr>
+ <td><b>Date of Birth </b></td>
+ <td>19thJanuary,2005 </td>
+ <tr>
+ <td><b>Gender</b></td>
+ <td>Male</td>
+ <tr>
+ <td><b>Marital Status</b></td>
+ <td>Unmarried</td>
+ <tr>
+ <td><b>Address </b></td>
+ <td>Morghade, M.B.Town,Bandhu Nagar,Koradi Road,Nagpur-Maharashtra440030</td>
+ </tr>
+ <tr>
+ <td><b>Language Known</b></td>
+ <td> English,Hindi,Marathi,French(only Intro and basic)& Tamil(Only 
+Understanding</td>
+ </table>
+<u>
+<h2><p style="text-align:left">DECLARATION</p></h2>
+</u>
+ <p> I hereby declare that above written particulars are true to best of my knowledge 
+and belief .</p>
+ <p> Date:12-05-2023</p>
+ <p>Place:Nagpur</p>
+ <p style="text-align:right">Ishant Morghade</p>
+ </body>
+ </html>
